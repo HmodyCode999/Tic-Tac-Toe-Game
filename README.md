@@ -113,7 +113,7 @@ def check_winner(board, symbol):
 ### Quick Start
 1. **Download the game:**
    ```bash
-   git clone https://github.com/HmodyCode999/Tic-Tac-Toe-Game-.git
+   git clone https://github.com/HmodyCode999/Tic-Tac-Toe-Game.git
    cd tic-tac-toe-game
    ```
 
